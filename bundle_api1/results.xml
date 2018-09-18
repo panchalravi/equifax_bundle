@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<l7:Item xmlns:l7="http://ns.l7tech.com/2010/04/gateway-management">
+    <l7:Name>Bundle mappings</l7:Name>
+    <l7:Type>BUNDLE MAPPINGS</l7:Type>
+    <l7:TimeStamp>2018-09-18T11:16:43.857+08:00</l7:TimeStamp>
+    <l7:Link rel="self" uri="https://192.168.42.84:8443/restman/1.0/bundle?test=false&amp;activate=true"/>
+    <l7:Resource>
+        <l7:Mappings>
+            <l7:Mapping action="NewOrExisting" actionTaken="UsedExisting" srcId="4798d1d7e442547501774e867739f3c0" srcUri="https://gw931.ca.local:8443/restman/1.0/folders/4798d1d7e442547501774e867739f3c0" targetId="eb9bfd8912ab718dca5cdfee82f8a931" targetUri="https://192.168.42.84:8443/restman/1.0/folders/eb9bfd8912ab718dca5cdfee82f8a931" type="FOLDER">
+                <l7:Properties>
+                    <l7:Property key="FailOnNew">
+                        <l7:BooleanValue>true</l7:BooleanValue>
+                    </l7:Property>
+                </l7:Properties>
+            </l7:Mapping>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e867739f834" srcUri="https://gw931.ca.local:8443/restman/1.0/policies/4798d1d7e442547501774e867739f834" targetId="4798d1d7e442547501774e867739f834" targetUri="https://192.168.42.84:8443/restman/1.0/policies/4798d1d7e442547501774e867739f834" type="POLICY"/>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e867739f8e8" srcUri="https://gw931.ca.local:8443/restman/1.0/encapsulatedAssertions/4798d1d7e442547501774e867739f8e8" targetId="4798d1d7e442547501774e867739f8e8" targetUri="https://192.168.42.84:8443/restman/1.0/encapsulatedAssertions/4798d1d7e442547501774e867739f8e8" type="ENCAPSULATED_ASSERTION"/>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e86773a0448" srcUri="https://gw931.ca.local:8443/restman/1.0/clusterProperties/4798d1d7e442547501774e86773a0448" targetId="4798d1d7e442547501774e86773a0448" targetUri="https://192.168.42.84:8443/restman/1.0/clusterProperties/4798d1d7e442547501774e86773a0448" type="CLUSTER_PROPERTY">
+                <l7:Properties>
+                    <l7:Property key="MapBy">
+                        <l7:StringValue>name</l7:StringValue>
+                    </l7:Property>
+                </l7:Properties>
+            </l7:Mapping>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e86773a4854" srcUri="https://gw931.ca.local:8443/restman/1.0/policies/4798d1d7e442547501774e86773a4854" targetId="4798d1d7e442547501774e86773a4854" targetUri="https://192.168.42.84:8443/restman/1.0/policies/4798d1d7e442547501774e86773a4854" type="POLICY"/>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e86773a4a2e" srcUri="https://gw931.ca.local:8443/restman/1.0/encapsulatedAssertions/4798d1d7e442547501774e86773a4a2e" targetId="4798d1d7e442547501774e86773a4a2e" targetUri="https://192.168.42.84:8443/restman/1.0/encapsulatedAssertions/4798d1d7e442547501774e86773a4a2e" type="ENCAPSULATED_ASSERTION"/>
+            <l7:Mapping action="NewOrExisting" actionTaken="UsedExisting" srcId="161861da3a78c5dcdc62696d169147d0" srcUri="https://gw931.ca.local:8443/restman/1.0/folders/161861da3a78c5dcdc62696d169147d0" targetId="eb9bfd8912ab718dca5cdfee82f8a931" targetUri="https://192.168.42.84:8443/restman/1.0/folders/eb9bfd8912ab718dca5cdfee82f8a931" type="FOLDER">
+                <l7:Properties>
+                    <l7:Property key="FailOnNew">
+                        <l7:BooleanValue>true</l7:BooleanValue>
+                    </l7:Property>
+                </l7:Properties>
+            </l7:Mapping>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="c2656fd5ff575252902a7e330e355f53" srcUri="https://gw931.ca.local:8443/restman/1.0/policies/c2656fd5ff575252902a7e330e355f53" targetId="c2656fd5ff575252902a7e330e355f53" targetUri="https://192.168.42.84:8443/restman/1.0/policies/c2656fd5ff575252902a7e330e355f53" type="POLICY"/>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="161861da3a78c5dcdc62696d16914896" srcUri="https://gw931.ca.local:8443/restman/1.0/policies/161861da3a78c5dcdc62696d16914896" targetId="161861da3a78c5dcdc62696d16914896" targetUri="https://192.168.42.84:8443/restman/1.0/policies/161861da3a78c5dcdc62696d16914896" type="POLICY"/>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="161861da3a78c5dcdc62696d16914883" srcUri="https://gw931.ca.local:8443/restman/1.0/policies/161861da3a78c5dcdc62696d16914883" targetId="161861da3a78c5dcdc62696d16914883" targetUri="https://192.168.42.84:8443/restman/1.0/policies/161861da3a78c5dcdc62696d16914883" type="POLICY"/>
+            <l7:Mapping action="NewOrExisting" actionTaken="UsedExisting" srcId="161861da3a78c5dcdc62696d1691481a" srcUri="https://gw931.ca.local:8443/restman/1.0/folders/161861da3a78c5dcdc62696d1691481a" targetId="eb9bfd8912ab718dca5cdfee82f8a931" targetUri="https://192.168.42.84:8443/restman/1.0/folders/eb9bfd8912ab718dca5cdfee82f8a931" type="FOLDER">
+                <l7:Properties>
+                    <l7:Property key="FailOnNew">
+                        <l7:BooleanValue>true</l7:BooleanValue>
+                    </l7:Property>
+                </l7:Properties>
+            </l7:Mapping>
+            <l7:Mapping action="NewOrExisting" actionTaken="UsedExisting" srcId="161861da3a78c5dcdc62696d16914861" srcUri="https://gw931.ca.local:8443/restman/1.0/policies/161861da3a78c5dcdc62696d16914861" targetId="161861da3a78c5dcdc62696d16914861" targetUri="https://192.168.42.84:8443/restman/1.0/policies/161861da3a78c5dcdc62696d16914861" type="POLICY"/>
+            <l7:Mapping action="NewOrExisting" actionTaken="UsedExisting" srcId="161861da3a78c5dcdc62696d16914bbb" srcUri="https://gw931.ca.local:8443/restman/1.0/policies/161861da3a78c5dcdc62696d16914bbb" targetId="161861da3a78c5dcdc62696d16914bbb" targetUri="https://192.168.42.84:8443/restman/1.0/policies/161861da3a78c5dcdc62696d16914bbb" type="POLICY"/>
+            <l7:Mapping action="NewOrExisting" actionTaken="UsedExisting" srcId="161861da3a78c5dcdc62696d16914c21" srcUri="https://gw931.ca.local:8443/restman/1.0/encapsulatedAssertions/161861da3a78c5dcdc62696d16914c21" targetId="161861da3a78c5dcdc62696d16914c21" targetUri="https://192.168.42.84:8443/restman/1.0/encapsulatedAssertions/161861da3a78c5dcdc62696d16914c21" type="ENCAPSULATED_ASSERTION"/>
+            <l7:Mapping action="NewOrExisting" actionTaken="UsedExisting" srcId="161861da3a78c5dcdc62696d16914be5" srcUri="https://gw931.ca.local:8443/restman/1.0/policies/161861da3a78c5dcdc62696d16914be5" targetId="161861da3a78c5dcdc62696d16914be5" targetUri="https://192.168.42.84:8443/restman/1.0/policies/161861da3a78c5dcdc62696d16914be5" type="POLICY"/>
+            <l7:Mapping action="NewOrExisting" actionTaken="UsedExisting" srcId="161861da3a78c5dcdc62696d16914c44" srcUri="https://gw931.ca.local:8443/restman/1.0/encapsulatedAssertions/161861da3a78c5dcdc62696d16914c44" targetId="161861da3a78c5dcdc62696d16914c44" targetUri="https://192.168.42.84:8443/restman/1.0/encapsulatedAssertions/161861da3a78c5dcdc62696d16914c44" type="ENCAPSULATED_ASSERTION"/>
+            <l7:Mapping action="NewOrExisting" actionTaken="UsedExisting" srcId="4798d1d7e442547501774e867739efdd" srcUri="https://gw931.ca.local:8443/restman/1.0/folders/4798d1d7e442547501774e867739efdd" targetId="eb9bfd8912ab718dca5cdfee82f8a931" targetUri="https://192.168.42.84:8443/restman/1.0/folders/eb9bfd8912ab718dca5cdfee82f8a931" type="FOLDER">
+                <l7:Properties>
+                    <l7:Property key="FailOnNew">
+                        <l7:BooleanValue>true</l7:BooleanValue>
+                    </l7:Property>
+                </l7:Properties>
+            </l7:Mapping>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e867739e7fc" srcUri="https://gw931.ca.local:8443/restman/1.0/policies/4798d1d7e442547501774e867739e7fc" targetId="4798d1d7e442547501774e867739e7fc" targetUri="https://192.168.42.84:8443/restman/1.0/policies/4798d1d7e442547501774e867739e7fc" type="POLICY"/>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e867739ee8b" srcUri="https://gw931.ca.local:8443/restman/1.0/encapsulatedAssertions/4798d1d7e442547501774e867739ee8b" targetId="4798d1d7e442547501774e867739ee8b" targetUri="https://192.168.42.84:8443/restman/1.0/encapsulatedAssertions/4798d1d7e442547501774e867739ee8b" type="ENCAPSULATED_ASSERTION"/>
+            <l7:Mapping action="NewOrExisting" actionTaken="UsedExisting" srcId="4798d1d7e442547501774e867739f020" srcUri="https://gw931.ca.local:8443/restman/1.0/folders/4798d1d7e442547501774e867739f020" targetId="eb9bfd8912ab718dca5cdfee82f8a931" targetUri="https://192.168.42.84:8443/restman/1.0/folders/eb9bfd8912ab718dca5cdfee82f8a931" type="FOLDER">
+                <l7:Properties>
+                    <l7:Property key="FailOnNew">
+                        <l7:BooleanValue>true</l7:BooleanValue>
+                    </l7:Property>
+                </l7:Properties>
+            </l7:Mapping>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e867739f09b" srcUri="https://gw931.ca.local:8443/restman/1.0/policies/4798d1d7e442547501774e867739f09b" targetId="4798d1d7e442547501774e867739f09b" targetUri="https://192.168.42.84:8443/restman/1.0/policies/4798d1d7e442547501774e867739f09b" type="POLICY"/>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e867739f0f3" srcUri="https://gw931.ca.local:8443/restman/1.0/encapsulatedAssertions/4798d1d7e442547501774e867739f0f3" targetId="4798d1d7e442547501774e867739f0f3" targetUri="https://192.168.42.84:8443/restman/1.0/encapsulatedAssertions/4798d1d7e442547501774e867739f0f3" type="ENCAPSULATED_ASSERTION"/>
+            <l7:Mapping action="Ignore" actionTaken="Ignored" srcId="0000000000000000fffffffffffffffe" srcUri="https://gw931.ca.local:8443/restman/1.0/identityProviders/0000000000000000fffffffffffffffe" type="ID_PROVIDER_CONFIG"/>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e867739e7e5" srcUri="https://gw931.ca.local:8443/restman/1.0/policies/4798d1d7e442547501774e867739e7e5" targetId="4798d1d7e442547501774e867739e7e5" targetUri="https://192.168.42.84:8443/restman/1.0/policies/4798d1d7e442547501774e867739e7e5" type="POLICY"/>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e867739ef7b" srcUri="https://gw931.ca.local:8443/restman/1.0/encapsulatedAssertions/4798d1d7e442547501774e867739ef7b" targetId="4798d1d7e442547501774e867739ef7b" targetUri="https://192.168.42.84:8443/restman/1.0/encapsulatedAssertions/4798d1d7e442547501774e867739ef7b" type="ENCAPSULATED_ASSERTION"/>
+            <l7:Mapping action="Ignore" actionTaken="Ignored" srcId="00000000000000000000000000000002:SSL" srcUri="https://gw931.ca.local:8443/restman/1.0/privateKeys/00000000000000000000000000000002:SSL" type="SSG_KEY_ENTRY"/>
+            <l7:Mapping action="NewOrExisting" actionTaken="UsedExisting" srcId="4798d1d7e442547501774e86773a0594" srcUri="https://gw931.ca.local:8443/restman/1.0/folders/4798d1d7e442547501774e86773a0594" targetId="eb9bfd8912ab718dca5cdfee82f8a931" targetUri="https://192.168.42.84:8443/restman/1.0/folders/eb9bfd8912ab718dca5cdfee82f8a931" type="FOLDER">
+                <l7:Properties>
+                    <l7:Property key="FailOnNew">
+                        <l7:BooleanValue>true</l7:BooleanValue>
+                    </l7:Property>
+                </l7:Properties>
+            </l7:Mapping>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e86773a05d9" srcUri="https://gw931.ca.local:8443/restman/1.0/policies/4798d1d7e442547501774e86773a05d9" targetId="4798d1d7e442547501774e86773a05d9" targetUri="https://192.168.42.84:8443/restman/1.0/policies/4798d1d7e442547501774e86773a05d9" type="POLICY"/>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e86773a0ded" srcUri="https://gw931.ca.local:8443/restman/1.0/encapsulatedAssertions/4798d1d7e442547501774e86773a0ded" targetId="4798d1d7e442547501774e86773a0ded" targetUri="https://192.168.42.84:8443/restman/1.0/encapsulatedAssertions/4798d1d7e442547501774e86773a0ded" type="ENCAPSULATED_ASSERTION"/>
+            <l7:Mapping action="NewOrExisting" actionTaken="UsedExisting" srcId="4798d1d7e442547501774e867739ed9b" srcUri="https://gw931.ca.local:8443/restman/1.0/folders/4798d1d7e442547501774e867739ed9b" targetId="eb9bfd8912ab718dca5cdfee82f8a931" targetUri="https://192.168.42.84:8443/restman/1.0/folders/eb9bfd8912ab718dca5cdfee82f8a931" type="FOLDER">
+                <l7:Properties>
+                    <l7:Property key="FailOnNew">
+                        <l7:BooleanValue>true</l7:BooleanValue>
+                    </l7:Property>
+                </l7:Properties>
+            </l7:Mapping>
+            <l7:Mapping action="NewOrUpdate" actionTaken="UpdatedExisting" srcId="4798d1d7e442547501774e867739f174" srcUri="https://gw931.ca.local:8443/restman/1.0/services/4798d1d7e442547501774e867739f174" targetId="4798d1d7e442547501774e867739f174" targetUri="https://192.168.42.84:8443/restman/1.0/services/4798d1d7e442547501774e867739f174" type="SERVICE"/>
+        </l7:Mappings>
+    </l7:Resource>
+</l7:Item>

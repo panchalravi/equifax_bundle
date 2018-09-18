@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<l7:Mappings xmlns:l7="http://ns.l7tech.com/2010/04/gateway-management">
+    <l7:Mapping action="Ignore" srcId="00000000000000000000000000000002:SSL" srcUri="https://gw931.ca.local:8443/restman/1.0/privateKeys/00000000000000000000000000000002:SSL" type="SSG_KEY_ENTRY"/>
+    <l7:Mapping action="Ignore" srcId="0000000000000000fffffffffffffffe" srcUri="https://gw931.ca.local:8443/restman/1.0/identityProviders/0000000000000000fffffffffffffffe" type="ID_PROVIDER_CONFIG"/>
+    <l7:Mapping action="NewOrExisting" srcId="1104e4f4fa0308a3e6189ffbf7398463" srcUri="https://gw931.ca.local:8443/restman/1.0/jdbcConnections/1104e4f4fa0308a3e6189ffbf7398463" type="JDBC_CONNECTION">
+        <l7:Properties>
+            <l7:Property key="MapBy">
+                <l7:StringValue>name</l7:StringValue>
+            </l7:Property>
+            <l7:Property key="MapTo">
+                <l7:StringValue>OAuth</l7:StringValue>
+            </l7:Property>
+        </l7:Properties>
+    </l7:Mapping>
+    <l7:Mapping action="NewOrUpdate" srcId="4798d1d7e442547501774e86773a0448" srcUri="https://gw931.ca.local:8443/restman/1.0/clusterProperties/4798d1d7e442547501774e86773a0448" type="CLUSTER_PROPERTY">
+        <l7:Properties>
+            <l7:Property key="MapBy">
+                <l7:StringValue>name</l7:StringValue>
+            </l7:Property>
+        </l7:Properties>
+    </l7:Mapping>
+</l7:Mappings>

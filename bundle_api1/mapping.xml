@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<l7:Mappings xmlns:l7="http://ns.l7tech.com/2010/04/gateway-management">
+    <l7:Mapping action="Ignore" srcId="00000000000000000000000000000002:SSL" srcUri="https://gw931.ca.local:8443/restman/1.0/privateKeys/00000000000000000000000000000002:SSL" type="SSG_KEY_ENTRY"/>
+    <l7:Mapping action="Ignore" srcId="0000000000000000fffffffffffffffe" srcUri="https://gw931.ca.local:8443/restman/1.0/identityProviders/0000000000000000fffffffffffffffe" type="ID_PROVIDER_CONFIG"/>
+</l7:Mappings>
