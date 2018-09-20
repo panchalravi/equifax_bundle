@@ -5,7 +5,7 @@
             <l7:Name>Equifax Set Timeout Limit</l7:Name>
             <l7:Id>4798d1d7e442547501774e867739f834</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.346+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.706+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="395b36a1-baea-4917-b932-121d525a08bf" id="4798d1d7e442547501774e867739f834" version="4">
                     <l7:PolicyDetail folderId="4798d1d7e442547501774e867739f3c0" guid="395b36a1-baea-4917-b932-121d525a08bf" id="4798d1d7e442547501774e867739f834" version="4">
@@ -165,7 +165,7 @@
             <l7:Name>Equifax Set Timeout Limit</l7:Name>
             <l7:Id>4798d1d7e442547501774e867739f8e8</l7:Id>
             <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.346+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.707+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:EncapsulatedAssertion id="4798d1d7e442547501774e867739f8e8" version="0">
                     <l7:Name>Equifax Set Timeout Limit</l7:Name>
@@ -225,7 +225,7 @@ The Read Timeout defines the maximum time (in milliseconds) allowed for response
             <l7:Name>equifax.backend.users</l7:Name>
             <l7:Id>4798d1d7e442547501774e86773a0448</l7:Id>
             <l7:Type>CLUSTER_PROPERTY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.346+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.707+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:ClusterProperty id="4798d1d7e442547501774e86773a0448" version="2">
                     <l7:Name>equifax.backend.users</l7:Name>
@@ -237,7 +237,7 @@ The Read Timeout defines the maximum time (in milliseconds) allowed for response
             <l7:Name>Equifax Set Rate Limit</l7:Name>
             <l7:Id>4798d1d7e442547501774e86773a4854</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.350+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.711+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="61a7830c-9626-43d8-aceb-b0515caea381" id="4798d1d7e442547501774e86773a4854" version="4">
                     <l7:PolicyDetail folderId="4798d1d7e442547501774e867739f3c0" guid="61a7830c-9626-43d8-aceb-b0515caea381" id="4798d1d7e442547501774e86773a4854" version="4">
@@ -424,7 +424,7 @@ The Read Timeout defines the maximum time (in milliseconds) allowed for response
             <l7:Name>Equifax Set Rate Limit</l7:Name>
             <l7:Id>4798d1d7e442547501774e86773a4a2e</l7:Id>
             <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.350+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.712+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:EncapsulatedAssertion id="4798d1d7e442547501774e86773a4a2e" version="1">
                     <l7:Name>Equifax Set Rate Limit</l7:Name>
@@ -490,7 +490,7 @@ The Read Timeout defines the maximum time (in milliseconds) allowed for response
             <l7:Name>OTK Caching Customization</l7:Name>
             <l7:Id>c2656fd5ff575252902a7e330e355f53</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.353+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.718+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="a2206e7c-28e8-489d-862d-3b7c6da78079" id="c2656fd5ff575252902a7e330e355f53" version="0">
                     <l7:PolicyDetail folderId="161861da3a78c5dcdc62696d169147d0" guid="a2206e7c-28e8-489d-862d-3b7c6da78079" id="c2656fd5ff575252902a7e330e355f53" version="0">
@@ -792,7 +792,7 @@ The Read Timeout defines the maximum time (in milliseconds) allowed for response
             <l7:Name>OTK Cache Look Up Customization</l7:Name>
             <l7:Id>161861da3a78c5dcdc62696d16914896</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.354+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.719+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="df0a2c11-cf6e-47da-84c0-032bf7f3b6d2" id="161861da3a78c5dcdc62696d16914896" version="0">
                     <l7:PolicyDetail folderId="161861da3a78c5dcdc62696d169147d0" guid="df0a2c11-cf6e-47da-84c0-032bf7f3b6d2" id="161861da3a78c5dcdc62696d16914896" version="0">
@@ -865,7 +865,7 @@ The Read Timeout defines the maximum time (in milliseconds) allowed for response
             <l7:Name>OTK Cache Store Customization</l7:Name>
             <l7:Id>161861da3a78c5dcdc62696d16914883</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.354+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.720+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="2294fc5e-0adf-4d4b-b44d-8d1252f024c9" id="161861da3a78c5dcdc62696d16914883" version="0">
                     <l7:PolicyDetail folderId="161861da3a78c5dcdc62696d169147d0" guid="2294fc5e-0adf-4d4b-b44d-8d1252f024c9" id="161861da3a78c5dcdc62696d16914883" version="0">
@@ -939,7 +939,7 @@ The Read Timeout defines the maximum time (in milliseconds) allowed for response
             <l7:Name>OTK Cache Handler</l7:Name>
             <l7:Id>161861da3a78c5dcdc62696d16914861</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.362+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.728+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="65eff071-9a97-415b-8ebb-8e711ffd738d" id="161861da3a78c5dcdc62696d16914861" version="0">
                     <l7:PolicyDetail folderId="161861da3a78c5dcdc62696d1691481a" guid="65eff071-9a97-415b-8ebb-8e711ffd738d" id="161861da3a78c5dcdc62696d16914861" version="0">
@@ -1304,7 +1304,7 @@ The Read Timeout defines the maximum time (in milliseconds) allowed for response
             <l7:Name>OTK Cache Look Up</l7:Name>
             <l7:Id>161861da3a78c5dcdc62696d16914bbb</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.366+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.733+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="fb88be42-83e7-4d36-a865-34e53d4f4218" id="161861da3a78c5dcdc62696d16914bbb" version="0">
                     <l7:PolicyDetail folderId="161861da3a78c5dcdc62696d1691481a" guid="fb88be42-83e7-4d36-a865-34e53d4f4218" id="161861da3a78c5dcdc62696d16914bbb" version="0">
@@ -1483,7 +1483,7 @@ The Read Timeout defines the maximum time (in milliseconds) allowed for response
             <l7:Name>OTK Cache Look Up</l7:Name>
             <l7:Id>161861da3a78c5dcdc62696d16914c21</l7:Id>
             <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.366+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.733+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:EncapsulatedAssertion id="161861da3a78c5dcdc62696d16914c21" version="0">
                     <l7:Name>OTK Cache Look Up</l7:Name>
@@ -1564,7 +1564,7 @@ The Read Timeout defines the maximum time (in milliseconds) allowed for response
             <l7:Name>OTK Cache Store</l7:Name>
             <l7:Id>161861da3a78c5dcdc62696d16914be5</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.371+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.739+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="58143e14-a1cd-4cca-b25a-e2d637a42bbc" id="161861da3a78c5dcdc62696d16914be5" version="0">
                     <l7:PolicyDetail folderId="161861da3a78c5dcdc62696d1691481a" guid="58143e14-a1cd-4cca-b25a-e2d637a42bbc" id="161861da3a78c5dcdc62696d16914be5" version="0">
@@ -1769,7 +1769,7 @@ The Read Timeout defines the maximum time (in milliseconds) allowed for response
             <l7:Name>OTK Cache Store</l7:Name>
             <l7:Id>161861da3a78c5dcdc62696d16914c44</l7:Id>
             <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.371+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.739+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:EncapsulatedAssertion id="161861da3a78c5dcdc62696d16914c44" version="0">
                     <l7:Name>OTK Cache Store</l7:Name>
@@ -1882,7 +1882,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
             <l7:Name>Equifax Fail with error message</l7:Name>
             <l7:Id>4798d1d7e442547501774e867739e7fc</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.382+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.750+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="7f7f6050-ee6c-4e30-bbb4-03af58c373db" id="4798d1d7e442547501774e867739e7fc" version="19">
                     <l7:PolicyDetail folderId="4798d1d7e442547501774e867739efdd" guid="7f7f6050-ee6c-4e30-bbb4-03af58c373db" id="4798d1d7e442547501774e867739e7fc" version="19">
@@ -2571,7 +2571,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
             <l7:Name>Equifax Fail with Error Message</l7:Name>
             <l7:Id>4798d1d7e442547501774e867739ee8b</l7:Id>
             <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.382+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.750+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:EncapsulatedAssertion id="4798d1d7e442547501774e867739ee8b" version="7">
                     <l7:Name>Equifax Fail with Error Message</l7:Name>
@@ -2638,7 +2638,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
             <l7:Name>Equifax Require SSL (with Client Certificate)</l7:Name>
             <l7:Id>4798d1d7e442547501774e867739f09b</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.386+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.755+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="39593ac7-caac-4196-ad57-89db7ade80b3" id="4798d1d7e442547501774e867739f09b" version="6">
                     <l7:PolicyDetail folderId="4798d1d7e442547501774e867739f020" guid="39593ac7-caac-4196-ad57-89db7ade80b3" id="4798d1d7e442547501774e867739f09b" version="6">
@@ -2855,7 +2855,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
             <l7:Name>Equifax Require SSL (with Client Certificate)</l7:Name>
             <l7:Id>4798d1d7e442547501774e867739f0f3</l7:Id>
             <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.386+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.755+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:EncapsulatedAssertion id="4798d1d7e442547501774e867739f0f3" version="2">
                     <l7:Name>Equifax Require SSL (with Client Certificate)</l7:Name>
@@ -2900,7 +2900,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
             <l7:Name>Internal Identity Provider</l7:Name>
             <l7:Id>0000000000000000fffffffffffffffe</l7:Id>
             <l7:Type>ID_PROVIDER_CONFIG</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.387+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.755+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:IdentityProvider id="0000000000000000fffffffffffffffe" version="0">
                     <l7:Name>Internal Identity Provider</l7:Name>
@@ -2912,7 +2912,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
             <l7:Name>Equifax Basic Authentication</l7:Name>
             <l7:Id>4798d1d7e442547501774e867739e7e5</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.387+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.756+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="e5ecd894-0c65-449e-8931-0b9d529fc295" id="4798d1d7e442547501774e867739e7e5" version="12">
                     <l7:PolicyDetail folderId="4798d1d7e442547501774e867739f020" guid="e5ecd894-0c65-449e-8931-0b9d529fc295" id="4798d1d7e442547501774e867739e7e5" version="12">
@@ -2990,7 +2990,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
             <l7:Name>Equifax Basic Authentication</l7:Name>
             <l7:Id>4798d1d7e442547501774e867739ef7b</l7:Id>
             <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.387+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:13.756+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:EncapsulatedAssertion id="4798d1d7e442547501774e867739ef7b" version="1">
                     <l7:Name>Equifax Basic Authentication</l7:Name>
@@ -3031,7 +3031,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
             <l7:Name>SSL</l7:Name>
             <l7:Id>00000000000000000000000000000002:SSL</l7:Id>
             <l7:Type>SSG_KEY_ENTRY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.666+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:14.041+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:PrivateKey alias="SSL" id="00000000000000000000000000000002:SSL" keystoreId="00000000000000000000000000000002">
                     <l7:CertificateChain>
@@ -3047,7 +3047,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
                             <l7:StringValue>RSA</l7:StringValue>
                         </l7:Property>
                         <l7:Property key="keyData">
-                            <l7:StringValue algorithm="RSA" bundleKey="$L7C2$1bead,cU+a+ShnvxBlAUnD8+TkY6nYT97uusPPFdAjeIVE3AA=$bKr14xoSChj+e1NIVR1V8gai9QPMod7yPYtg2Iio0PBcG5h57ygAtJa+5P4jL9ukCJpc+2RCVnZGdtcJMDwqpHdacRzRAzLhN/GPm/Kb6c8cFWiOJ5K8rLMbRk+WVO+7">$L7C2$1,Y6XgYGEAqii4tL2p8qxu4YJgZ9XdNfsmfUa90AMzkxI=$+D7T+ZcxDPWepmopCZSNUwsDWVkgL+gxh9iAgI6OEOib4xicVJ+i3yK7OKmyPLzgqZ2c9rhwQelI6v5TRmyX7Qva5oYsD0tke+6SpODbGcF1rF8HcL1+CxkotWiwo1xHhTl9C3VzFft0HPTIjT0Q6dTI/i83KLzr50/IpOBVeFAywQZv4sPNbs3yu6DnReYGRo53L8jdcu32vH2dFSk+XvMxWvwN00xpoU0OuqSTS+ERJlXslX6ZR0hq8aDWWgUcxVqigO989cBG0MW/P1ltOIG3uWrXfv/zLqEYFaWdoXjPCUS51ygxAvg4xDM4EyP34hXjptXxtLkuNyuf2TeZGncBBUYzDbEwL1BuSQyMdEtYZzKzNowLkTfEKp9YNvjDILEwFGtCkMYO8vYCXmmQwWlaWO6LzWqKDJG9yiGJFLOMYW/YO3eC8NC86GfOQwZAf6k2Nl82G6LcMAEy/jkVhC/VosCJTgAv0rR8acmNOfYPuVH1cn2TgUkcxmaTvN6DAVJB11xs+waomVr2EQQjoeqWRTHZHeDVbGS7JNU1TSiCTFPu0AkgPTB97F7Mc7PRMPHOR+neLapqjj153RWiZvMSy491kn0+xLyhA2X+8f4l47cjXKwcd8r+SkPhTyI9n73EGBH0wACLbW9NFqj1mbLYIR4Pj/O1sCZkpxU4gITxrDre3/J4ObiRuhfR6yAGus+Y5F67WiHT9vb02RgNd6kqa/UdNTRwOGH6n+ozL2K8e6MnDaDl9UKKQ730LX6j5FkszaoHQVFdZfBtkKeLIiwHzwy+dbSdAYfzzlOAp1a+cYQ8eKvW5r5YHPL+ND/XGlm/pOLwATLMc1ijyvrVTTyen68fRB5ZHuqf9kCKkh4Xei0fJ+iB20OfD7ZgAedo25KhcxMIC1991rFZubkwJM3m+ORuprwqLp7AbdbJlVB+nEPux62E6aM/7AncaFjNZBlY7Z59XplV5+Y9cRW6TqvQJdqfS+347EiMl0FYXcSerqvbUjkb9VuCTM6kiv4EXoorON2a0S1GRkChh8zoNvSxBBhzWCDpDlmQYM9/HWaOsoIKqqmdBSIkcQXiivbP0gIpRqaPgN4ILJd4I5PPtFmCDM+ufp7HJ6ubXS95yAGT3CRCsf+t6vfC/7nNT4vyU+QygZr6N7/339sCpLQ6bn3jCUShegCSsix7S/1ZzEd86+ro4t3JTXLG3R1fpa/b0OLBw7vpBgPA9nNjlbloZmO2v4RH61muSQNLT6EHNzbqECzdq0DRNwK01lG+sHou40u1wh1dheLvDqLpkBIqHd3M5NcX5U5J9MlltFEoaQwz/bC3xrA0UJ/TNN9KteDNMeSN7rN2LdN5HK26N9Aoqm7+HlhiZqlrRY2FAwQNIsgrihrmTHwlQH1RGm0Usfn8KEf1bWBs7X2GpUkaAFd/V8q1jRTx+CIYJotJ12RdGgoG3hsMCO+csZWwWFFEeb8HZGulQ90OkjpIRtzrJnI+NTBFxUo27EfCz6w5WAStpTvbGVe9f2h+DsDpnDbjVnek3dY3/gnllKWXG5dMF9UwV7BmSfiHj/FsW5YKQIP4DGD3PvO991TemLrz93a80bAo0UOnvzOv5XxQIDKM733oMR39qOM+153RqvZtUB1GWHoPqgkMW4VohqR18fTrUOt0dUv2tM6EtxBp/Gdi9hCjk6f8NSdaG+Afjrp974j32n4=</l7:StringValue>
+                            <l7:StringValue algorithm="RSA" bundleKey="$L7C2$1bead,HfLuJLRo86dqAxliG2l3hYSJ9dV7p83tdGLIC4kKWS4=$UN6wuEkje2K8i4ZLN/Jmw8pEDwNhEvp8iu8jGuNv0KmYyQtkIG08RDzX7/BwNy13Dl2KljjboAjOCX61sicY104rd6wqihMv0/JbRuxVM1UYrIK2KulfsjfHpb38jnmG">$L7C2$1,lNTlUtAPHPck+Z4pnoYIX6fyEnVgxgcniLmayEXJ5MI=$qUIYpBoXlKhIwL7kltdEW/qj1M7wvGAB6tQTX+buyXAz7spLbYbmrr0hQHKeZ1IeWmblwJ2aHfCC3krFT5YsFoRSW42GWxl2c7zpilWuG73j5tV6At4QwAe+8fAaMLdmXrpxLGKqhT2+/fL7V0yDckVkUI3jaVDhvuSiEn/gO7yNrUWppUbIlMouwx/Z54PYOyD9pUhmcbMh8GOcL/+yMQaxZ78YkHSv++fGgXjO461RN0Yxn1+3HT2IF3D3esBOldgLa2fsnmn97wYlatGSgCKucU7tKWyqIHfykOgjB8EcWR2ulX3ASnWAQBFtHaODy9R/kG1UyQHWE32U43NriweXnHs5Tmsx3ga/UAvvW0TiGGk2+bNlp+exz4RaOF8Rvtt0kH+9QJRZbAFuj9PvdUMuNmXm7M8PcpVbZihOmGJ/jsoXeRSnbxexBQ5nh4913WScGXMqbY8+T5vepvvP1jPUPo+sq1oHn6Nd9WyXrcpjUvTdz8HQ20Sdy67Ze5TzBcW4lrfsCNZSUriTSkKhBPPncSHrs8t6+DndUq8m7aGJcCspEO+nikcMnPqQz+OgmHTApRhwDe+5kPL6QwF3xTY9ihRjXIYq22U0N/0zWZjkPzsZ4rJMmaXvjYNPhJAO7k3Ty5aTEF5EqHwne4IOsikOm/ZoNk798jcLYpu2SdrNZQmManm/sDcqYiFKOjQocp1YF3M4OYKoEb7i50zEMp1m59AKEYa8hS3lxx1d1FOXBVdbKflwPcjQ1LnyBmOnOaI5D5d4WtwfTHT9n1iik1jq8584cPYIO0JKRUI0UWFZRJcbKYk3QDKHfRzlfsqCJQ721IoaQllha3H04SpjAkeDXVHYJT9pDOpLuPW7IuawqHBIxfpWpPQdRfbv/EFr9QMV2kw/NOxgxMgEy+tLaBbP3/ivulO3S4FEjm2Iqgw9Ro12YShu+x199eag3V8RT0bFHKbN+3P9mBMyJomfBz1NQOr+xMlvGA+28Z23GCpPqzv5JGLJ+4XLHV6MrC4CZXggoCHbG+e9gBBHYzi9Ge47EOtAXfjiqh5HG2FLNBfRSU8Ai1aUz4p59Qct6ZirMsDcWF/Tmw/noYGtttECU2/Blpl5Br7niWDgv3ZdsM1mHCiDO2m+sbgsObLHKXDCAHW37mwmFl/jWJenSu4PI7odetcu8+GaewuB4GCFCF8ZnZmPvnslhLViNiVJI8yiiMuOstB0xQQ+fOnkf+RE8mdcIsxr3T3c2rOTjkGptKcoWvFYzkbA31jDFf6gGigjoH6kdmzx8ajfFF542Izc+pGgPzOZrU6mFflR1MxNZ6R1Vr52dWcmb4FmDiZW4WT6YwpqzuLKc6VxIQnF2K1nI9C5jPMOA/O9sqa+MMdYGgOq+wIVFEbPrrrEHez+/aUsk7I9XpikhAeDzMoW55ABPtqbIl0x0GSl1eTe1uq/A3a8WekBz1uM+UMJRbbM4Eao4HPeX/r0W9xWh5PLoriyvztf3JnBp6fcnx7z0zOAr5ubUNl2CMCnGENoZj+j1YOMFxZ5m5O5j2BVD1EMQQ0Ce5rJzNqAHzgTCiuCMKUwF5RJTMpNGLtpqBxICKXB772mLGpcPpMaDLwfwMSa/WTLS+RarT+uz2Yy5tVK/6Q/Ax1exRDLXw25RH9kRgYOAdwmdMBEBiFAaPc5chgphz//LxxmBMX+jkwS85Rv58UPW88=</l7:StringValue>
                         </l7:Property>
                         <l7:Property key="specialPurposes">
                             <l7:StringValue>Default SSL Key</l7:StringValue>
@@ -3060,7 +3060,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
             <l7:Name>Equifax Route Request to Backend Service</l7:Name>
             <l7:Id>4798d1d7e442547501774e86773a05d9</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.671+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:14.050+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="dfa1fbfc-aee3-4b16-a9ab-1b5c7b2ca2e3" id="4798d1d7e442547501774e86773a05d9" version="10">
                     <l7:PolicyDetail folderId="4798d1d7e442547501774e86773a0594" guid="dfa1fbfc-aee3-4b16-a9ab-1b5c7b2ca2e3" id="4798d1d7e442547501774e86773a05d9" version="10">
@@ -3300,7 +3300,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
             <l7:Name>Equifax Route Request to Backend Service</l7:Name>
             <l7:Id>4798d1d7e442547501774e86773a0ded</l7:Id>
             <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.671+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:14.050+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:EncapsulatedAssertion id="4798d1d7e442547501774e86773a0ded" version="1">
                     <l7:Name>Equifax Route Request to Backend Service</l7:Name>
@@ -3357,7 +3357,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
             <l7:Name>Equifax Standard API - Basic Auth</l7:Name>
             <l7:Id>4798d1d7e442547501774e867739f174</l7:Id>
             <l7:Type>SERVICE</l7:Type>
-            <l7:TimeStamp>2018-09-20T08:24:08.676+08:00</l7:TimeStamp>
+            <l7:TimeStamp>2018-09-21T05:47:14.057+08:00</l7:TimeStamp>
             <l7:Resource>
                 <l7:Service id="4798d1d7e442547501774e867739f174" version="3">
                     <l7:ServiceDetail folderId="4798d1d7e442547501774e867739ed9b" id="4798d1d7e442547501774e867739f174" version="3">
@@ -3379,7 +3379,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
                                 <l7:BooleanValue>false</l7:BooleanValue>
                             </l7:Property>
                             <l7:Property key="policyRevision">
-                                <l7:LongValue>63</l7:LongValue>
+                                <l7:LongValue>65</l7:LongValue>
                             </l7:Property>
                             <l7:Property key="soap">
                                 <l7:BooleanValue>false</l7:BooleanValue>
@@ -3394,7 +3394,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
                     </l7:ServiceDetail>
                     <l7:Resources>
                         <l7:ResourceSet tag="policy">
-                            <l7:Resource type="policy" version="62">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+                            <l7:Resource type="policy" version="64">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;wsp:Policy xmlns:L7p="http://www.layer7tech.com/ws/policy" xmlns:wsp="http://schemas.xmlsoap.org/ws/2002/12/policy"&gt;
     &lt;wsp:All wsp:Usage="Required"&gt;
         &lt;L7p:CommentAssertion&gt;
@@ -3405,6 +3405,9 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
         &lt;/L7p:CommentAssertion&gt;
         &lt;L7p:CommentAssertion&gt;
             &lt;L7p:Comment stringValue="This template performs basic authentication, SSL check and route to backend service"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="The template also enforces rate limit"/&gt;
         &lt;/L7p:CommentAssertion&gt;
         &lt;L7p:CommentAssertion&gt;
             &lt;L7p:Comment stringValue=" ============================================"/&gt;
@@ -3427,7 +3430,7 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
                     &lt;L7p:Parameters mapValue="included"&gt;
                         &lt;L7p:entry&gt;
                             &lt;L7p:key stringValue="connect.timeout"/&gt;
-                            &lt;L7p:value stringValue="2000"/&gt;
+                            &lt;L7p:value stringValue="4000"/&gt;
                         &lt;/L7p:entry&gt;
                         &lt;L7p:entry&gt;
                             &lt;L7p:key stringValue="read.timeout"/&gt;
@@ -3449,15 +3452,15 @@ Lyui4IeqDyqOJE/xexkT4syaN1tm1MlTaEagRjsWDAgAOw==</l7:StringValue>
                         &lt;/L7p:entry&gt;
                         &lt;L7p:entry&gt;
                             &lt;L7p:key stringValue="rate"/&gt;
-                            &lt;L7p:value stringValue="1"/&gt;
+                            &lt;L7p:value stringValue="10"/&gt;
                         &lt;/L7p:entry&gt;
                         &lt;L7p:entry&gt;
                             &lt;L7p:key stringValue="throttled"/&gt;
-                            &lt;L7p:value stringValue="true"/&gt;
+                            &lt;L7p:value stringValue="false"/&gt;
                         &lt;/L7p:entry&gt;
                         &lt;L7p:entry&gt;
                             &lt;L7p:key stringValue="window"/&gt;
-                            &lt;L7p:value stringValue="2"/&gt;
+                            &lt;L7p:value stringValue="5"/&gt;
                         &lt;/L7p:entry&gt;
                     &lt;/L7p:Parameters&gt;
                 &lt;/L7p:Encapsulated&gt;
